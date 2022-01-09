@@ -1,6 +1,6 @@
-# app
+# Polytime
 
-Application de gestion du temps compilé avec Flutter
+Application de gestion du temps selon la technique de Dwight D. Eisenhower compilé avec Flutter.
 
 ## Getting Started
 
